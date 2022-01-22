@@ -1,0 +1,6 @@
+{
+  "python.linting.pylintEnabled": false,
+  "python.linting.enabled": true,
+  "python.pythonPath": "C:\\Users\\asole\\AppData\\Local\\Programs\\Python\\Python39\\python.exe",
+  "python.linting.mypyEnabled": true
+}
